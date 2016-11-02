@@ -19,4 +19,4 @@ $ ./node_modules/.bin/webpack -w
 
 Written in Japanese
 
-[]()
+[webpack で react, scss のコンパイルと ESLint を設定する方法](http://sottar.hatenablog.com/entry/2016/11/02/194030)
